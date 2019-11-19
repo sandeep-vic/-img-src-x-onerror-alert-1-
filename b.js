@@ -2,7 +2,7 @@ script type="text/javascript">
 
         function getUrlVars(){
 
-            var vars = [], hash;
+            var vars = [], <h1>a;
             var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
             for(var i = 0; i < hashes.length; i++)
             {
